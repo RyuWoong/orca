@@ -20356,8 +20356,8 @@
   "runtimeRpc": {
     "startupFailure": {
       "unknownCause": "추가 오류 세부정보가 없습니다.",
-      "continueButton": "Continue without CLI",
-      "title": "Orca CLI unavailable",
+      "continueButton": "CLI 없이 계속",
+      "title": "Orca CLI를 사용할 수 없습니다",
       "message": "Orca가 로컬 명령 전송 기능을 시작하지 못했습니다.",
       "detail": "Orca는 계속 작동하지만 이번 세션에서는 orca status, orca terminal 등의 명령과 오케스트레이션 기능을 사용할 수 없습니다.\n\n{{guidance}}\n\n원인: {{cause}}",
       "guidance": {

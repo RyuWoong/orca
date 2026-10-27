@@ -4694,7 +4694,7 @@
               "d9a4b3e2f1c5": "이벤트",
               "recentCombinedActivity": "최근 Claude, Codex, OpenCode, Muse의 통합 토큰 활동입니다.",
               "statusScanning": "스캐닝",
-              "statusEnabled": "활성화됨",
+              "statusEnabled": "활성",
               "statusOff": "비활성"
             }
           }
